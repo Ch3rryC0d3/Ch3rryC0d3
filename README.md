@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gorilla Tag
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing right now.. Check back later!
-- 📫 How to reach me twitter: Ch3rryC0d3
+- 📫 How to reach me twitter: C0deCh3rry
 
 <!---
 Ch3rryC0d3/Ch3rryC0d3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
